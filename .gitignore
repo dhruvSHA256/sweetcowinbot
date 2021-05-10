@@ -24,6 +24,7 @@ eggs/
 parts/
 sdist/
 var/
+lol.py
 wheels/
 pip-wheel-metadata/
 share/python-wheels/

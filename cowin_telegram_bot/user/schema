@@ -1,0 +1,9 @@
+CREATE TABLE user(
+id INTEGER NOT NULL PRIMARY KEY,
+pincode INTEGER NOT NULL,
+notify INTEGER,
+created_at VARCHAR,
+deleted_at VARCHAR,
+min_age_limit INTEGER,
+first_name VARCHAR, last_name VARCHAR);
+
